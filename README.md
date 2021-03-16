@@ -2,4 +2,5 @@
 - 👀 I’m interested in Coding Html,Css and Javascript
 - 🌱 I’m currently learning Javascript jquery
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me sapalito10@gmail.com
+- 📫 How to reach me sapalito10@gmail.com please contact me in gmail
+- 
